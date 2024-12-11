@@ -1,0 +1,74 @@
+[
+  {
+    "name": "dual",
+    "category": "Modern Wooden Fans",
+    "variations": ["dual-white", "dual-black"],
+    "related": ["single", "triple"]
+  },
+  {
+    "name": "single",
+    "category": "Modern Wooden Fans",
+    "variations": ["single-white", "single-black"],
+    "related": ["dual", "triple"]
+  },
+  {
+    "name": "triple",
+    "category": "Modern Wooden Fans",
+    "variations": ["triple-white", "triple-black"],
+    "related": ["single", "dual"]
+  },
+  {
+    "name": "bladeless-1",
+    "category": "Bladeless Fans",
+    "variations": [],
+    "related": ["bladeless-2"]
+  },
+  {
+    "name": "crystal-chandelier",
+    "category": "Crystal Fans",
+    "variations": [],
+    "related": ["crystal-modern"]
+  },
+  {
+    "name": "vintage-classic",
+    "category": "Vintage Classic Fans",
+    "variations": [],
+    "related": ["vintage-royal"]
+  },
+  {
+    "name": "retractable-modern",
+    "category": "Retractable Fans",
+    "variations": [],
+    "related": ["retractable-classic"]
+  },
+  {
+    "name": "colossal-industrial",
+    "category": "Colossal Fans",
+    "variations": [],
+    "related": ["colossal-commercial"]
+  },
+  {
+    "name": "kids-airplane",
+    "category": "Kids Fans Collection",
+    "variations": [],
+    "related": ["kids-butterfly"]
+  },
+  {
+    "name": "wall-mounted-classic",
+    "category": "Wall-Mounted Fans",
+    "variations": [],
+    "related": ["wall-mounted-modern"]
+  },
+  {
+    "name": "designer-exhaust",
+    "category": "Designer Exhaust Fans",
+    "variations": [],
+    "related": ["designer-exhaust-premium"]
+  },
+  {
+    "name": "outdoor-industrial",
+    "category": "Outdoor Fans",
+    "variations": [],
+    "related": ["outdoor-commercial"]
+  }
+]
